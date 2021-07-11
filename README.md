@@ -2,6 +2,7 @@
 
 ## Interface via terminal
 
+```
  Total de vacinados: 1
 ............................
  Vacinômetro Empresarial 0.3
@@ -15,3 +16,5 @@
 ............................
 
  Selecione uma opção:
+
+```
